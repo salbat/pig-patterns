@@ -6,3 +6,4 @@ topN = foreach groupUser {
         generate flatten(topN);
 };
 dump topN;
+STORE topN INTO 'topNOutput' USING PigStorage (',');
