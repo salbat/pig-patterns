@@ -1,0 +1,8 @@
+Alice,third,5 
+Alice,first,11 
+Alice,second,10
+Alice,fourth,2
+Bob,second,20
+Bob,third,18
+Bob,first,21
+Bob,fourth,8
